@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    
+    <item
+        android:id="@+id/action_create_issue"
+        android:title="Create Issue"
+        android:icon="@drawable/ic_bug_report_24"
+        app:iconTint="?attr/colorOnPrimary"
+        app:showAsAction="always" />
+        
+</menu>
