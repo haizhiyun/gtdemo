@@ -167,7 +167,6 @@
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[DeviceId(pluginId=LocalEmulator, isTemplate=false, identifier=path=/Users/user/.android/avd/Pixel_3a_API_33_arm64-v8a.avd)]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -347,32 +346,12 @@
       <option name="project" value="LOCAL" />
       <updated>1756291646891</updated>
     </task>
-    <task id="LOCAL-00004" summary="feat: 基于git hub api 实现的简单demo">
-      <option name="closed" value="true" />
-      <created>1756292206408</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1756292206408</updated>
-    </task>
-    <task id="LOCAL-00005" summary="feat: 新增授权">
-      <option name="closed" value="true" />
-      <created>1756293353377</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1756293353377</updated>
-    </task>
-    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feat: git demo 首次提交" />
     <MESSAGE value="feat: git demo 首次提交2" />
     <MESSAGE value="feat: 优化进入设置页" />
-    <MESSAGE value="feat: 基于git hub api 实现的简单demo" />
-    <MESSAGE value="feat: 新增授权" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: 新增授权" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
