@@ -1,0 +1,76 @@
+<resources>
+    <!-- App basic information -->
+    <string name="app_name">gtdemo</string>
+    
+    <!-- Navigation and Tab -->
+    <string name="tab_popular">Popular</string>
+    <string name="tab_search">Search</string>
+    <string name="tab_profile">Profile</string>
+    <string name="popular_recommendations">Popular Recommendations</string>
+    
+    <!-- Login related -->
+    <string name="login_title">Login to GitHub</string>
+    <string name="login_button">Login</string>
+    <string name="login_with_oauth">Login with OAuth</string>
+    <string name="login_welcome">Welcome to GitHub Client</string>
+    <string name="login_subtitle">Please enter your GitHub credentials</string>
+    <string name="login_username_hint">Username or email</string>
+    <string name="login_password_hint">Password or Personal Access Token</string>
+    <string name="login_show_password">Show password</string>
+    <string name="login_hide_password">Hide password</string>
+    <string name="login_hint_title">Tips:</string>
+    <string name="login_hint_text">• Recommend using Personal Access Token instead of password\n• Generate in GitHub Settings → Developer settings → Personal access tokens\n• Requires repo, user and other permissions</string>
+    <string name="please_login_github">Please login to GitHub account</string>
+    
+    <!-- Profile page -->
+    <string name="profile_title">Profile</string>
+    <string name="logout">Logout</string>
+    <string name="user_avatar">User avatar</string>
+    <string name="repositories">Repositories</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="repos">Repos</string>
+    <string name="no_bio">This person is lazy and left nothing...</string>
+    
+    <!-- Search page -->
+    <string name="search_hint">Search repositories...</string>
+    <string name="search_button">Search</string>
+    <string name="search_language_all">All languages</string>
+    <string name="search_sort_best_match">Best match</string>
+    <string name="search_sort_stars">Stars</string>
+    <string name="search_sort_forks">Forks</string>
+    <string name="search_sort_updated">Updated</string>
+    <string name="search_order_desc">Descending</string>
+    <string name="search_order_asc">Ascending</string>
+    
+    <!-- Repository related -->
+    <string name="repo_stars">Stars</string>
+    <string name="repo_forks">Forks</string>
+    <string name="repo_issues">Issues</string>
+    <string name="repo_language">Language</string>
+    <string name="repo_details">Repository Details</string>
+    
+    <!-- Settings page -->
+    <string name="settings_title">Settings</string>
+    <string name="settings_language">Language Settings</string>
+    <string name="settings_language_subtitle">Choose app display language</string>
+    <string name="language_chinese">简体中文</string>
+    <string name="language_english">English</string>
+    <string name="settings_about">About</string>
+    <string name="settings_version">Version Info</string>
+    
+    <!-- General -->
+    <string name="back">Back</string>
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel</string>
+    <string name="loading">Loading...</string>
+    <string name="error">Error</string>
+    <string name="retry">Retry</string>
+    <string name="no_data">No data</string>
+    
+    <!-- Error messages -->
+    <string name="error_network">Network connection failed, please check network</string>
+    <string name="error_login">Login failed, please check username and password</string>
+    <string name="error_unauthorized">Authentication failed, please login again</string>
+    <string name="error_unknown">Unknown error</string>
+</resources>
